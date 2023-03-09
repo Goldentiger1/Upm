@@ -1,6 +1,9 @@
 # Unity gitignores
 ##############################
 
+# Unity cache
+/[Ll]ibrary/
+
 ##############################
 
 # Unreal Engine gitignores
