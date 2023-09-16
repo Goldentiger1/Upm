@@ -1,0 +1,18 @@
+# Unreal Engine .gitignore
+Config/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unity .gitignore
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+obj/
+.vsconfig
+*.meta
+
+# Visual Studio Community .gitignore
+.vs/
