@@ -5,14 +5,15 @@ Intermediate/
 Saved/
 
 # Unity .gitignore
-Library/
 Logs/
-Packages/
-ProjectSettings/
+Library/
 UserSettings/
 obj/
+Temp/
 .vsconfig
 *.meta
+*.csproj
 
 # Visual Studio Community .gitignore
 .vs/
+*.suo
