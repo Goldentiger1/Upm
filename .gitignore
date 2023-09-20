@@ -1,5 +1,4 @@
 # Unreal Engine .gitignore
-Config/
 DerivedDataCache/
 Intermediate/
 Saved/
